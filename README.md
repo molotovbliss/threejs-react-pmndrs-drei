@@ -12,5 +12,10 @@ Prototyping template with hopefully (latest)
  Spline while not PMNDR's, but quick to implement the above also worthy:
  * https://spline.design/
 
+
+
+
+![Demo](https://raw.githubusercontent.com/molotovbliss/threejs-react-pmndrs-drei/main/thumbnail.jpg
+)
 Demo: 
 * https://w76p38.csb.app/
